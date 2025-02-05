@@ -141,7 +141,7 @@ Initialize a Git Repository:
 
 Push to GitHub:
 
-# $ git remote add origin https://github.com/yourusername/backup-project.git
+# $ git remote add origin https://github.com/PrajwalP0571/Automated-Backup-and-Rotation.git
 # $ git branch -M main
 # $ git push -u origin main
 
